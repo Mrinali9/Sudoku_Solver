@@ -1,11 +1,10 @@
-# Sudoku solver - Algorithm X with Dancing Links (DLX)
+# Sudoku Solver - Algorithm X with Dancing Links (DLX)
 
 Sudoku solver based on Knuth's Algorithm X implemented with [Dancing Links](https://arxiv.org/pdf/cs/0011047.pdf) (DLX).
 
 <div align='center'>
-     <img alt="Sudoku solver" src="https://github.com/Mrinali9/Sudoku_Solver/assets/32040353/0d280904-203d-4e4e-8a59-9eb623f65131">
+     <img alt="Sudoku Solver" src="https://github.com/Mrinali9/Sudoku_Solver/assets/your-asset-id/image-file.png">
 </div>
-
 
 ## Installation and usage
 
